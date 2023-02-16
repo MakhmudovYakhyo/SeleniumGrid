@@ -30,7 +30,7 @@ public class Simple {
         String expectedTitle = "Welcome: Mercury Tours";
         String actualTitle = "";
 
-        // launch Fire fox and direct it to the Base URL
+        // launch Chrome and direct it to the Base URL
         driver.get(baseUrl);
 
         // get the actual value of the title
