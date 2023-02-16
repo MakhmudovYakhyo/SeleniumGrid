@@ -46,7 +46,7 @@ public class Simple {
             System.out.println("Test Failed");
         }
 
-        //close Fire fox
+        //close Chrome
         driver.close();
     }
 
